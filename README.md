@@ -1,2 +1,3 @@
 # url-shortening
-Creates shortened urls and returns original urls from shortened ones
+1. Accepts a URL and returns a shortened version.  
+2. Takes a shortened url and returns the original longer URL
